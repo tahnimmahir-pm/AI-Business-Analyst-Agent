@@ -1,4 +1,4 @@
-# Michael — The AI Business Analyst Agent
+# The AI Business Analyst Agent
 
 Michael is an AI-powered Business Analyst agent that understands natural-language business questions, translates them into SQL, executes against a relational database, and returns human-friendly answers, tables, and simple charts. It also stores conversation history for later analysis.
 
