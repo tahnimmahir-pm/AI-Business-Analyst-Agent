@@ -162,10 +162,4 @@ Invoke-RestMethod http://127.0.0.1:8000/schema
 - Do not commit real API keys. Use environment variables.
 - SQL is LLM-generated; in production, apply schema guards, allowlists, or a SQL validator.
 
-## Roadmap
-- Richer charting and visualization selection
-- Semantic caching of questions/answers
-- Recommendation engine for inventory/pricing suggestions
 
-## License
-MIT (or your preferred license)
